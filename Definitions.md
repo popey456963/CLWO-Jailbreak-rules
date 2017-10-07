@@ -1,6 +1,6 @@
 # Definitions
 
-* Hunting: Â actively looking and not staying in 1 area (camping the tower,etc...).
+* Hunting: actively looking and not staying in 1 area (camping the tower,etc...).
 
 * Freekill: if a guard kills a prisoner that was following all the given orders.
 
@@ -20,4 +20,4 @@
 
 * Stairs / ramp: Is the same thing.
 
-* Hurting a guard: Anything that hurts a guard which isn't map related. [Map secrets are excluded]f [/list]
+* Hurting a guard: Anything that hurts a guard which isn't map related. [Map secrets are excluded]
