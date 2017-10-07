@@ -1,3 +1,5 @@
+# Definitions
+
 * Hunting: Â actively looking and not staying in 1 area (camping the tower,etc...).
 
 * Freekill: if a guard kills a prisoner that was following all the given orders.

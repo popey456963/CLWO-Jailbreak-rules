@@ -1,3 +1,5 @@
+# Rules for freedays
+
 * Free days (LR requested) take effect before any order.
 
 * You cannot hurt any guard.

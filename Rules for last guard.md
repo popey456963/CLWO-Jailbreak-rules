@@ -1,3 +1,5 @@
+# Rules for last guard
+
 * Last guard rule only applies when there are 4 or more guards on the team and more than 1 alive prisoner.
 
 * Is allowed to kill any non trapped prisoner. (if you un-trap them you may kill them, yes spray fest)

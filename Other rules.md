@@ -1,3 +1,5 @@
+# Other rules
+
 * Any entrance blocked by breakable wooden planks are considered vents.
 
 * Leaving playable areas of a map-minigames is considered detouring if cheating is not allowed.

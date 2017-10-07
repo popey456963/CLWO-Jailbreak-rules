@@ -1,4 +1,6 @@
- * Firing an unsilenced weapon.
+# Acts of rebelling
+
+* Firing an unsilenced weapon.
 
 * Entering secrets/vents/armory.
 

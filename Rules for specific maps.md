@@ -1,3 +1,5 @@
+# Rules for specific maps
+
 * White Table on clouds can be either the one in VIP/Cellblock/Surf (if not specified).
 
 * Peanut's corridor next to armory is not armory.

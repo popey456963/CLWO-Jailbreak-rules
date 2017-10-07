@@ -1,3 +1,5 @@
+# Rules for everyone
+
 * The general rules must always be followed.
 
 * Always be honest towards staff. (never lie about freekills or anything)

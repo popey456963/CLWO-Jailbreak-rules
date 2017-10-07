@@ -1,3 +1,5 @@
+# Rules for wardens in games
+
 * You cannot trap people with "playing/ending" simon says.
 
 * Any variation of "we are playing simon says" or "we are no longer playing simon says" are considered valid. You cannot trap T's with "playing simon" and "no longer playing" orders.

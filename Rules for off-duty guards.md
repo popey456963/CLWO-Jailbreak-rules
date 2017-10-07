@@ -1,4 +1,6 @@
- * You are allowed to go anywhere you want, play any mini games, but secrets/vents/armoury are still restricted.
+# Rules for off-duty guards.
+
+* You are allowed to go anywhere you want, play any mini games, but secrets/vents/armoury are still restricted.
 
 * When being attacked by a prisoner you may return fire to neutralize the threat. (this will not void the off-day)
 

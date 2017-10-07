@@ -1,3 +1,5 @@
+# Rules for guards.
+
 * Have a working microphone.
 
 * Do not freekill (slay yourself if you freekilled)
@@ -15,7 +17,7 @@
 * Accidental stand up in crouch walking 
 * Strafing a bit out of line when following warden (bhop)
  
-##threatening examples
+## threatening examples
 * Bhopping around in a stack when told to freeze
 * Strafing too much out of line when following warden 
 

@@ -1,3 +1,5 @@
+# Rules for wardens
+
 * Have a clear microphone.
 
 * Only the first warden can be claimed without giving a command, the plugin will grant warden to a random guard that typed !w, if you receive warden you have to give an valid and clear command
