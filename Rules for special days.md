@@ -1,3 +1,3 @@
- [*]Zombie free day: You need to [b]shift walk[/b] everywhere and you are allowed to hurt/kill guards. Carrying weapons is not allowed. Zombies cannot climb ladders neither jump unless attempting to get an otherwise unreachable guard. (Only primary knife attack is allowed).
+ * Zombie free day: You need to [b]shift walk[/b] everywhere and you are allowed to hurt/kill guards. Carrying weapons is not allowed. Zombies cannot climb ladders neither jump unless attempting to get an otherwise unreachable guard. (Only primary knife attack is allowed).
 
-[*]Panda free day: You need to [b]crouch walk[/b] everywhere and you are allowed to hurt/kill guards. Carrying weapons is not allowed. pandas [b]can[/b] climb ladders but[b] not jump[/b] unless attempting to get an otherwise unreachable guard.(Only primary knife attack is allowed).
+* Panda free day: You need to [b]crouch walk[/b] everywhere and you are allowed to hurt/kill guards. Carrying weapons is not allowed. pandas [b]can[/b] climb ladders but[b] not jump[/b] unless attempting to get an otherwise unreachable guard.(Only primary knife attack is allowed).
