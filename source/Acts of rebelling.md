@@ -2,7 +2,7 @@
 
 * Firing an unsilenced weapon.
 
-* Entering secrets/vents/armory.
+* Entering secrets/vents/armoury.
 
 * Opening vents.
 
