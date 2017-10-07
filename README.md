@@ -3,7 +3,7 @@ CLWO Jailbreak rules
 
 [Rules for everyone](Rules%20for%20everyone.md)
 
-[Rules for free days](Rules%20for%20free%20days.md)
+[Rules for free days](Rules%20for%20freedays.md)
 
 [Acts of rebelling](Acts%20of%20rebelling.md)
 
