@@ -28,11 +28,11 @@
 
 * Do not speak over warden.
 
-* As a general rule guards should never be on walls/obstacles/fences/railings. [list] Notes:[]Walls surrounding the map are fine, this to allow sniping positions. [/list] * You must have left armory before 9:30.
+* As a general rule guards should never be on walls/obstacles/fences/railings. [list] Notes:[]Walls surrounding the map are fine, this to allow sniping positions. [/list] * You must have left armoury before 9:30.
 
 * You are not allowed to to play mini games at all. (not on free days not on LR, never). (only exception is when a warden orders you to compete in a game against a prisoner, or if there is a rebeller hiding inside the game)
 
-* You can only re-enter armory if you had a visual on a prisoner inside the armory.
+* You can only re-enter armoury if you had a visual on a prisoner inside the armoury.
 
 * You cannot enter the vents unless you see a prisoner inside the vents, or entering the vents.
 
@@ -84,4 +84,4 @@
 
 * Once a prisoner has been fully stacked with another prisoner, and can only be identified by his or her name he/she is considered part of that group of prisoners and inherits their status (all skin/perk/other rules apply on this one, but the killing by red/pink)
 
-* You cannot be in an area which requires you to pass through armory to leave.
+* You cannot be in an area which requires you to pass through armoury to leave.
