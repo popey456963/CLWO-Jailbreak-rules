@@ -1,4 +1,4 @@
-[list=1] * The general rules must always be followed.
+* The general rules must always be followed.
 
 * Always be honest towards staff. (never lie about freekills or anything)
 
@@ -41,5 +41,3 @@
 * The terms "Guards" and "Prisoners" will always refer to the corresponding teams, it cannot be changed,used in a trap,etc.. its an overriding name and should only be used for overriding confusing situations)
 
 * Abusing / cheating / exploiting the crafting system is not allowed, neither is farming products in a non ethical/non intended way allowed. People that report exploits/abusers/cheaters will receive bonus items. (Punishments for abuse/cheating can lead from resets to crafting bans).
-
-[/list]

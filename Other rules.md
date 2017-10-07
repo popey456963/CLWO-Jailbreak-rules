@@ -1,4 +1,4 @@
- * Any entrance blocked by breakable wooden planks are considered vents.
+* Any entrance blocked by breakable wooden planks are considered vents.
 
 * Leaving playable areas of a map-minigames is considered detouring if cheating is not allowed.
 
@@ -17,5 +17,3 @@
 * Unless stated differently by the warden, only the warden is allowed to terminate a prisoner after a complete LR sequence.
 
 * If you are forcing more than 5~6 players into trivia, it must be an easy question.
-
-* [b]Warden teleporter rules @ https://clwo.eu/thread-2661.html [/b]

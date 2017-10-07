@@ -8,7 +8,7 @@
 
 * Is not forced to claim warden.
 
-* Is allowed to kill any free day[b] (YES ANY)[/b].
+* Is allowed to kill any free day **(YES ANY)**.
 
 * Is allowed to hunt.
 

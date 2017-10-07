@@ -1,4 +1,4 @@
- * Have a clear microphone.
+* Have a clear microphone.
 
 * Only the first warden can be claimed without giving a command, the plugin will grant warden to a random guard that typed !w, if you receive warden you have to give an valid and clear command
 
@@ -86,4 +86,7 @@
 
 * If you pause between words/sentences in commands, you have to give prisoners time to react to the pause. (this to prevent: all T's freeze in my arrow ....... [ 5 second pause ] when I say go which is not now)
 
-[]Exceptions: (if you are going to do any of the exceptions you have to let the prisoners know that they may skip). [list] []You are allowed to play a game more then 2 times but prisoners not willing to play may skip the game. * You are allowed to start mini games on a higher difficulty but prisoners not willing to play may skip the game. [/list] [/list][font=Verdana]
+**Exceptions:**
+*if you are going to do any of the exceptions you have to let the prisoners know that they may skip*
+* You are allowed to play a game more then 2 times but prisoners not willing to play may skip the game. 
+* You are allowed to start mini games on a higher difficulty but prisoners not willing to play may skip the game.

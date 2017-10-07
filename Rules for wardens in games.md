@@ -1,6 +1,6 @@
-You cannot trap people with "playing/ending" simon says.
+* You cannot trap people with "playing/ending" simon says.
 
-* Any variation of "we are playing simon says" Â or "we are no longer playing simon says" are considered valid. You cannot trap T's with "playing simon" and "no longer playing" orders.
+* Any variation of "we are playing simon says" or "we are no longer playing simon says" are considered valid. You cannot trap T's with "playing simon" and "no longer playing" orders.
 
 * You cannot butcher simon says. play the game as designed, do not change names of simon, yourself.
 
