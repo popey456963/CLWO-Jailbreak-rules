@@ -27,4 +27,4 @@ CLWO Jailbreak rules
 
 [Rules for staff](../blob/master/Rules for staff.md)
 
-[Definitions](../blob/master/Definitions.md)
+[Definitions](/blob/master/Definitions.md)
