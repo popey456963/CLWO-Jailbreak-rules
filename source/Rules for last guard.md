@@ -6,7 +6,7 @@
 
 * Is allowed to enter any secret/vent.
 
-* Is allowed to enter armory.
+* Is allowed to enter armoury.
 
 * Is not forced to claim warden.
 
