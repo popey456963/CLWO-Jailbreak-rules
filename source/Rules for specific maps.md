@@ -2,7 +2,7 @@
 
 * White Table on clouds can be either the one in VIP/Cellblock/Surf (if not specified).
 
-* Peanut's corridor next to armory is not armory.
+* Peanut's corridor next to armoury is not armoury.
 
 * If a wall/obstacle/fence allows a prisoner to 'escape' such wall/obstacle/fence should be treated as a 'vent/secret'.
 
