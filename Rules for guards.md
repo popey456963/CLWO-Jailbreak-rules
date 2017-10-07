@@ -1,4 +1,4 @@
- * Have a working microphone.
+* Have a working microphone.
 
 * Do not freekill (slay yourself if you freekilled)
 
@@ -6,13 +6,27 @@
 
 * Give warning shots to non threatening actions of prisoners. (A warning shot should not deal more than ~34 damage)
 
-non threatening examples [list] []Slight movement when told to freeze []Slight head movement when told to face x []1 step to much forward when told to freeze on the line. []Accidental stand up in crouch walking []Strafing a bit out of line when following warden (bhop) [/list] []
+***
 
-threatening examples [list] []Bhopping around in a stack when told to freeze []Strafing too much out of line when following warden [/list] * Do not be AFK for multiple rounds.
+## non threatening examples 
+* Slight movement when told to freeze
+* Slight head movement when told to face x
+* 1 step to much forward when told to freeze on the line. 
+* Accidental stand up in crouch walking 
+* Strafing a bit out of line when following warden (bhop)
+ 
+##threatening examples
+* Bhopping around in a stack when told to freeze
+* Strafing too much out of line when following warden 
+
+
+***
+
+* Do not be AFK for multiple rounds.
 
 * Do not speak over warden.
 
-[]As a general rule guards should never be on walls/obstacles/fences/railings. [list] Notes:[]Walls surrounding the map are fine, this to allow sniping positions. [/list] * You must have left armory before 9:30.
+* As a general rule guards should never be on walls/obstacles/fences/railings. [list] Notes:[]Walls surrounding the map are fine, this to allow sniping positions. [/list] * You must have left armory before 9:30.
 
 * You are not allowed to to play mini games at all. (not on free days not on LR, never). (only exception is when a warden orders you to compete in a game against a prisoner, or if there is a rebeller hiding inside the game)
 
@@ -24,7 +38,7 @@ threatening examples [list] []Bhopping around in a stack when told to freeze []S
 
 * Always kill red (even when warden pardons red) unless it's part of a minigame or LR
 
-* Have a prisoner in sight at all times unless you are hunting or ordered by the warden. being in the main cell area is also fine.(if a staff member finds you in a position where you don't have a prisoner in sight and you are not trying to get one in sight they will slay you). (
+* Have a prisoner in sight at all times unless you are hunting or ordered by the warden. being in the main cell area is also fine.(if a staff member finds you in a position where you don't have a prisoner in sight and you are not trying to get one in sight they will slay you).
 
 * Give a prisoner minimum reaction time based on the order. (You should give a prisoner roughly 3 seconds).
 
