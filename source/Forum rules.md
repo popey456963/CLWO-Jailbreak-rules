@@ -100,7 +100,7 @@ Content table (click them to go to the section)[/font]
 [list=1]
 * Firing an unsilenced weapon.
 
-* Entering secrets/vents/armory.
+* Entering secrets/vents/armoury.
 
 * Opening vents.
 
@@ -195,11 +195,11 @@ threatening examples
 [list]
 Notes:* Walls surrounding the map are fine, this to allow sniping positions.
 [/list]
-* You must have left armory before 9:30.
+* You must have left armoury before 9:30.
 
 * You are not allowed to to play mini games at all. (not on free days not on LR, never). (only exception is when a warden orders you to compete in a game against a prisoner, or if there is a rebeller hiding inside the game)
 
-* You can only re-enter armory if you had a visual on a prisoner inside the armory.
+* You can only re-enter armoury if you had a visual on a prisoner inside the armoury.
 
 * You cannot enter the vents unless you see a prisoner inside the vents, or entering the vents.
 
@@ -251,7 +251,7 @@ Notes:* Walls surrounding the map are fine, this to allow sniping positions.
 
 * Once a prisoner has been fully stacked with another prisoner, and can only be identified by his or her name he/she is considered part of that group of prisoners and inherits their status (all skin/perk/other rules apply on this one, but the killing by red/pink)
 
-* You cannot be in an area which requires you to pass through armory to leave.
+* You cannot be in an area which requires you to pass through armoury to leave.
 
 [/list][font=Verdana][font=Verdana]
 
@@ -318,7 +318,7 @@ Notes:* Walls surrounding the map are fine, this to allow sniping positions.
 
 * When accepting a free day for LR unless otherwise specified the free day is for next round.
 
-* When executing a special day you must claim warden and explain the special day to everyone, depending on the special day armory might be allowed,vents,etc...).
+* When executing a special day you must claim warden and explain the special day to everyone, depending on the special day armoury might be allowed,vents,etc...).
 
 * You cannot lead with HLDJ.
 
@@ -392,7 +392,7 @@ Notes:* Walls surrounding the map are fine, this to allow sniping positions.
 
 * Is allowed to enter any secret/vent.
 
-* Is allowed to enter armory.
+* Is allowed to enter armoury.
 
 * Is not forced to claim warden.
 
@@ -443,7 +443,7 @@ Notes:* Walls surrounding the map are fine, this to allow sniping positions.
 [list=1]
 * White Table on clouds can be either the one in VIP/Cellblock/Surf (if not specified).
 
-* Peanut's corridor next to armory is not armory.
+* Peanut's corridor next to armoury is not armoury.
 
 * If a wall/obstacle/fence allows a prisoner to 'escape' such wall/obstacle/fence should be treated as a 'vent/secret'.
 
