@@ -19,7 +19,7 @@ CLWO Jailbreak rules
 
 [Rules for off-duty days](Rules%20for%20off-duty%20guards.md)
 
-[Rules for special free days](Rules%20for%20special%20free%20days.md)
+[Rules for special free days](Rules%20for%20special%20days.md)
 
 [Rules for specific maps](Rules%20for%20specific%20maps.md)
 
