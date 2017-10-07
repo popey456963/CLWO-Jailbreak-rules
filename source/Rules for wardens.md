@@ -56,7 +56,7 @@
 
 * When accepting a free day for LR unless otherwise specified the free day is for next round.
 
-* When executing a special day you must claim warden and explain the special day to everyone, depending on the special day armory might be allowed,vents,etc...).
+* When executing a special day you must claim warden and explain the special day to everyone, depending on the special day armoury might be allowed,vents,etc...).
 
 * You cannot lead with HLDJ.
 
